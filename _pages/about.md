@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:"Optical Communications & Signal Processing · Computer Vision · Quantum Technologies · AI"
+subtitle: "Optical Communications & Signal Processing · Computer Vision · Quantum Technologies · AI"
 
 profile:
   align: right
