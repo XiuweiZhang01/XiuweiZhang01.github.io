@@ -19,7 +19,7 @@ footer_text: >
   Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: ["张修炜","Xiuwei Zhang","Zhang Xiuwei","computer vision","optical communication","signal processing","quantum rangefinding","machine learning","AI","UoB","UCLan"]
 lang: en # 只能写一种主语言；若做中英双语再单独配置
-icon: "LOGO" # or replace with an image name in /assets/img/
+icon: "LOGO.png" # or replace with an image name in /assets/img/
 url: "https://xiuweizhang01.github.io"  # 你的 GitHub Pages 用户域名
 baseurl: ""                             # 用户站点必须留空（不要写 /al-folio）
 
