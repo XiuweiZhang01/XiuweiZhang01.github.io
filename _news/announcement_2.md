@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Offer Received: MSc Optical Communication & Signal Processing, University of Bristol"
-date: 2023-08-10 07:59:00 -0400
+title: "Graduated from University of Central Lancashire"
+date: 2023-06-25 10:00:00 -0400
 inline: true
 related_posts: false
 ---
 
-Received an **offer** to study *MSc Optical Communications & Signal Processing* at the University of Bristol.
+Graduated from the University of Central Lancashire with a **BEng in Electronic Engineering**, awarded **Second Class Honours (First Division, 2:1)**.
