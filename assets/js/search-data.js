@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+        },{id: "nav-cv-简历",
+          title: "CV/简历",
+          description: "Academic CV of Xiuwei Zhang. MSc in Optical Communications &amp; Signal Processing (University of Bristol). Research interests include covert quantum rangefinding, signal processing, AI and machine learning/computer vision for sensing.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
