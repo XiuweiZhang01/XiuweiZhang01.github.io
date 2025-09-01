@@ -421,12 +421,10 @@ ninja.data = [{
             },},{id: "news-become-an-undergraduate-student-in-electronic-engineering-at-the-university-of-central-lancashire",
           title: 'Become an undergraduate student in Electronic Engineering at the University of Central Lancashire....',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-graduated-from-the-university-of-central-lancashire-with-a-bachelor-s-degree-and-a-second-class-honours-1st-division-degree",
+          title: 'Graduated from the University of Central Lancashire with a Bachelor’s degree and a...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-received-an-offer-to-study-optical-communications-and-signal-processing-at-the-university-of-bristol",
+          section: "News",},{id: "news-received-an-offer-to-study-optical-communications-and-signal-processing-at-the-university-of-bristol",
           title: 'Received an offer to study Optical Communications and Signal Processing at the University...',
           description: "",
           section: "News",},{id: "projects-project-1",
