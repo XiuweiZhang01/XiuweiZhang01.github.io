@@ -426,8 +426,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-received-an-offer-to-study-optical-communications-and-signal-processing-at-the-university-of-bristol",
+          title: 'Received an offer to study Optical Communications and Signal Processing at the University...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
