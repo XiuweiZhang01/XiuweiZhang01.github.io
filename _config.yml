@@ -90,7 +90,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: "XIUWEI's BLOG" # 你博客页的标题，可以写 Research Notes / Blog / Updates
+blog_name: "Xiuwei's Blog" # 你博客页的标题，可以写 Research Notes / Blog / Updates
 blog_description: "Updates on my research, projects, and thoughts." # 博客页描述
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -140,7 +140,7 @@ newsletter:
 collections:
   books:
     output: true
-  news:
+  News:
     defaults:
       layout: post
     output: true
@@ -258,8 +258,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Zhang]
+  first_name: [Xiuwei]
 
   style: apa
   locale: en
